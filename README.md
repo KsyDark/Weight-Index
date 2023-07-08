@@ -25,3 +25,5 @@ Less than 15.99 - Severe body weight deficiency.
 - 30.00 - 34.99 - First-degree obesity.
 - 35.00 - 39.99 - Second degree obesity.
 - Over 40.00 - Third-degree obesity (morbid).
+
+![image](https://github.com/KsyDark/Weight-Index/assets/57113088/848ee770-afce-42ee-b246-9d1aaedde31d)
