@@ -20,13 +20,8 @@ Program for calculating the weight index
 In accordance with WHO recommendations, the following interpretation of the indicators has been developed:
 
 Less than 15.99 - Severe body weight deficiency.
-
-16.00 - 18.49 - Underweight (deficit).
-
-18.50 - 24.99 - Normal 25.00 - 29.99 - Overweight (pre-fat).
-
-30.00 - 34.99 - First-degree obesity.
-
-35.00 - 39.99 - Second degree obesity.
-
-Over 40.00 - Third-degree obesity (morbid).
+- 16.00 - 18.49 - Underweight (deficit).
+- 18.50 - 24.99 - Normal 25.00 - 29.99 - Overweight (pre-fat).
+- 30.00 - 34.99 - First-degree obesity.
+- 35.00 - 39.99 - Second degree obesity.
+- Over 40.00 - Third-degree obesity (morbid).
